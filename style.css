@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(25, 25, 25);
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.js-title{
+    font-size:30px;
+    font-weight: bold;
+}
+.js-move{
+    margin:0px 10px 20px 10px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border:3px solid white;
+    background-color:rgb(25, 25, 25) ;
+    color:white;
+    cursor: pointer;
+}
+.js-move-icon{
+    height: 60px;
+}
+.js-result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.js-reset,.js-auto{
+    margin-left: 10px;
+    font-size: 15px;
+    height: 40px;
+    width:120px;
+    border-radius: 25px;
+    color:white;
+    background-color:rgb(25, 25, 25);
+    border:2px solid white;
+    cursor:pointer
+}
+.js-score{
+    margin-top:70px ;
+}
